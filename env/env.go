@@ -1,4 +1,4 @@
-package storm_go_logger
+package env
 
 import (
 	"log"
