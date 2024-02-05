@@ -6,9 +6,7 @@ A universally customized zap logger for StormCompute
 
 Download links:
 
-SSH clone URL: ssh://git@git.jetbrains.space/portal-software/workspaces/storm-go-logger.git
-
-HTTPS clone URL: https://git.jetbrains.space/portal-software/workspaces/storm-go-logger.git
+HTTPS clone URL: [https://git.jetbrains.space/portal-software/workspaces/storm-go-logger.git](https://github.com/storm-sft/storm-go-logger-lib/edit/main/README.md)
 
 
 
