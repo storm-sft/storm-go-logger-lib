@@ -1,4 +1,4 @@
-package storm_logger
+package stormlogger
 
 import (
 	"go.uber.org/zap"
