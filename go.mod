@@ -1,4 +1,4 @@
-module portal-software/workspaces/logger
+module github.com/storm-sft/storm-go-logger-lib
 
 go 1.21.6
 
