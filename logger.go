@@ -4,7 +4,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"log"
-	"portal-software/workspaces/logger/env"
+	"github.com/storm-sft/storm-go-logger-lib/env"
 )
 
 // LOGGER is the global logger used in the application.
